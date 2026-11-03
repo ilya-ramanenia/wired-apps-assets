@@ -1,10 +1,18 @@
-# wired-apps-assets
+# 👀 What are you doing here?
 
-Public screenshots for [wired-apps](https://sites.google.com/view/wired-apps/home).
+This is a tiny public CDN dump for Wired Sites embeds — not a project, not docs, not a place to hang out.
+If you wandered in… we see you.
 
-| File | Raw URL |
-|------|---------|
-| Kuda | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/kuda-iphone.png |
-| HeartPods | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/heartpods-iphone.png |
-| Shumka | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/shumka-iphone.png |
-| Secret App | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/secret-app-iphone.png |
+---
+
+| App | Original (PNG) | JPEG (q100, same resolution) |
+|-----|----------------|------------------------------|
+| Kuda | [kuda-iphone.png](kuda-iphone.png) | [kuda-iphone.jpg](kuda-iphone.jpg) |
+| HeartPods | [heartpods-iphone.png](heartpods-iphone.png) | [heartpods-iphone.jpg](heartpods-iphone.jpg) |
+| Shumka | [shumka-iphone.png](shumka-iphone.png) | [shumka-iphone.jpg](shumka-iphone.jpg) |
+| Secret App | [secret-app-iphone.png](secret-app-iphone.png) | [secret-app-iphone.jpg](secret-app-iphone.jpg) |
+
+Raw examples:
+
+- `https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/kuda-iphone.jpg`
+- `https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/heartpods-iphone.jpg`
