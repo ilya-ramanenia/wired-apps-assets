@@ -6,3 +6,5 @@ Public screenshots for [wired-apps](https://sites.google.com/view/wired-apps/hom
 |------|---------|
 | Kuda | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/kuda-iphone.png |
 | HeartPods | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/heartpods-iphone.png |
+| Shumka | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/shumka-iphone.png |
+| Secret App | https://raw.githubusercontent.com/ilya-ramanenia/wired-apps-assets/main/secret-app-iphone.png |
