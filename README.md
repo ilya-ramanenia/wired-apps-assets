@@ -5,7 +5,7 @@ If you wandered in… we see you.
 
 ---
 
-| App | Original (PNG) | JPEG (q100, same resolution) |
+| App | Original (PNG) | JPEG (q85, same resolution) |
 |-----|----------------|------------------------------|
 | Kuda | [kuda-iphone.png](kuda-iphone.png) | [kuda-iphone.jpg](kuda-iphone.jpg) |
 | HeartPods | [heartpods-iphone.png](heartpods-iphone.png) | [heartpods-iphone.jpg](heartpods-iphone.jpg) |
